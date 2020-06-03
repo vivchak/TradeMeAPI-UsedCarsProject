@@ -33,14 +33,14 @@ formatter.match({
   "location": "UsedCarsStepDef.aServiceRequestIsSentToAPIForUsedCarsCategories()"
 });
 formatter.result({
-  "duration": 1413324400,
+  "duration": 1292742100,
   "status": "passed"
 });
 formatter.match({
   "location": "UsedCarsStepDef.aResponseIsReturned()"
 });
 formatter.result({
-  "duration": 1269766900,
+  "duration": 1426682100,
   "status": "passed"
 });
 formatter.scenario({
@@ -76,7 +76,7 @@ formatter.match({
   "location": "UsedCarsStepDef.userMakesAnAPICallRequestsToTradeMeUsedCarMakeService()"
 });
 formatter.result({
-  "duration": 37000,
+  "duration": 57500,
   "status": "passed"
 });
 formatter.match({
@@ -89,14 +89,14 @@ formatter.match({
   "location": "UsedCarsStepDef.theStatusCodeReturnedIs(int)"
 });
 formatter.result({
-  "duration": 31589300,
+  "duration": 37182400,
   "status": "passed"
 });
 formatter.match({
   "location": "UsedCarsStepDef.theNumberOfCategoriesForUsedCarsIsPrintedInLog()"
 });
 formatter.result({
-  "duration": 645981300,
+  "duration": 623639500,
   "status": "passed"
 });
 formatter.background({
@@ -120,14 +120,14 @@ formatter.match({
   "location": "UsedCarsStepDef.aServiceRequestIsSentToAPIForUsedCarsCategories()"
 });
 formatter.result({
-  "duration": 871600,
+  "duration": 895400,
   "status": "passed"
 });
 formatter.match({
   "location": "UsedCarsStepDef.aResponseIsReturned()"
 });
 formatter.result({
-  "duration": 152476700,
+  "duration": 142842000,
   "status": "passed"
 });
 formatter.scenario({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "UsedCarsStepDef.userMakesAnAPICallRequestsToTradeMeUsedCarMakeService()"
 });
 formatter.result({
-  "duration": 25400,
+  "duration": 24400,
   "status": "passed"
 });
 formatter.match({
@@ -176,14 +176,14 @@ formatter.match({
   "location": "UsedCarsStepDef.theStatusCodeReturnedIs(int)"
 });
 formatter.result({
-  "duration": 2617100,
+  "duration": 1541600,
   "status": "passed"
 });
 formatter.match({
   "location": "UsedCarsStepDef.theNumberOfKIACarsInUsedCarsSearchIsPrintedInLog()"
 });
 formatter.result({
-  "duration": 176031800,
+  "duration": 259172700,
   "status": "passed"
 });
 formatter.background({
@@ -207,14 +207,14 @@ formatter.match({
   "location": "UsedCarsStepDef.aServiceRequestIsSentToAPIForUsedCarsCategories()"
 });
 formatter.result({
-  "duration": 1113800,
+  "duration": 5244400,
   "status": "passed"
 });
 formatter.match({
   "location": "UsedCarsStepDef.aResponseIsReturned()"
 });
 formatter.result({
-  "duration": 144584900,
+  "duration": 149329100,
   "status": "passed"
 });
 formatter.scenario({
@@ -250,7 +250,7 @@ formatter.match({
   "location": "UsedCarsStepDef.userMakesAnAPICallRequestsToTradeMeUsedCarMakeService()"
 });
 formatter.result({
-  "duration": 21800,
+  "duration": 22200,
   "status": "passed"
 });
 formatter.match({
@@ -263,7 +263,7 @@ formatter.match({
   "location": "UsedCarsStepDef.theStatusCodeReturnedIs(int)"
 });
 formatter.result({
-  "duration": 1039000,
+  "duration": 1123300,
   "status": "passed"
 });
 formatter.match({
@@ -276,7 +276,7 @@ formatter.match({
   "location": "UsedCarsStepDef.theBrandDoesNotExists(String)"
 });
 formatter.result({
-  "duration": 65525400,
+  "duration": 60126600,
   "status": "passed"
 });
 });
