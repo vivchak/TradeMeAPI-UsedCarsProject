@@ -18,7 +18,7 @@ Using the TradeMe Sandbox web site write automation code which does the followin
 - Check that Java is installed on the computer and all environmental settings have been configured
 - Ensure Maven is installed and configured
 - Source control tool (git, etc.) which could pull the project repository to your local machine
-- Run the below script from the command line in directory path or from inside your IDE
+- Run the below script from the command line in directory path with the below command or down load the project and run from inside your IDE
 ```
 mvn clean test
 ```
